@@ -1,10 +1,10 @@
 **Note**
-This is a simple script that was part of a pipeline tool. The only purpose was to extract metadata/data from dds textures and assemble them in an engine specific format.
+This is a simple script that was part of a pipeline tool. The only purpose was to extract metadata/data from dds textures for assembly into an engine specific format.
 
 # dds_loader
-Python 3.5 DDS Loader
+Python 3.5+ DDS loader module
 
-Minimal Python DDS Loader aimed at offline tools.
+Minimal DDS loader Python module aimed at offline tools.
 
 Textures need to be :
 - Squared power of two
